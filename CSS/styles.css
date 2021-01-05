@@ -9,3 +9,8 @@ h2{
 p{
   font-family: sans-serif;
 }
+
+ul {
+  font-size: 20px;
+  line-height: 30 px;
+}
